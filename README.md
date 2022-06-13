@@ -2,7 +2,7 @@
 
 ## Processamento Digital de Sinais
 
-### Esse projeto foi desenvolvido ao longo da cadeira de processamento digital de sinais, onde aprendemos primeiro conceitos teóricos sobre a manipulação de sinais, demonstrado nas listas de exercícios, para que enfim pudessemos juntar todos os conhecimento e aplicar no projeto final da disciplina. O projeto final consistiu em fazer o pré-processamento de uma base de dados contendo sinais de EEG (Eletroencefalograma) antes e depois de pacientes receberem um estímulo acústico binaural. Essa base de dados tem um total de 27 arquivos de sinais e tem uma frequência de amostragem de 500Hz. Ela foi disponibilizada pelo grupo de computação biomédica, liderada pelo professor Wellington Pinheiro dos Santos.
+#### Esse projeto foi desenvolvido ao longo da cadeira de processamento digital de sinais, onde aprendemos primeiro conceitos teóricos sobre a manipulação de sinais, demonstrado nas listas de exercícios, para que enfim pudessemos juntar todos os conhecimento e aplicar no projeto final da disciplina. O projeto final consistiu em fazer o pré-processamento de uma base de dados contendo sinais de EEG (Eletroencefalograma) antes e depois de pacientes receberem um estímulo acústico binaural. Essa base de dados tem um total de 27 arquivos de sinais e tem uma frequência de amostragem de 500Hz. Ela foi disponibilizada pelo grupo de computação biomédica, liderada pelo professor Wellington Pinheiro dos Santos.
 
 #### Grupo: Nicole Charron, Pedro Gurgel, Breno José dos Santos, Caio Vinícius e Eduarda Regina
  
